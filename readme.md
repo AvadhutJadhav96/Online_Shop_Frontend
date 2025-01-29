@@ -3,7 +3,7 @@
 A simple static clone of the Amazon website built using HTML and CSS.
 
 ## Features
-- Responsive design for various screen sizes
+
 - Home page with product listings
 - Navigation bar with search functionality (static)
 - Basic styling similar to Amazon's interface
