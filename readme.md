@@ -15,7 +15,6 @@ A simple static clone of the Amazon website built using HTML and CSS.
 
 ## Project Structure
 
-Amazon-Clone/
 ├── index.html        
 ├── styles.css         
 ├── images/           
